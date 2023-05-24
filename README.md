@@ -4,8 +4,8 @@ Simples contador de pessoas
 
 ## Imagens
 
-![incrementando](assets/img/19.jpeg){width=50%}
-![full](assets/img/20.jpeg){width=50%}
+<img src="assets/img/19.jpeg" alt="Descrição da imagem" width="300">
+<img src="assets/img/20.jpeg" alt="Descrição da imagem" width="300">
 
 This project is a starting point for a Flutter application.
 
