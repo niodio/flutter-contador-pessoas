@@ -1,8 +1,11 @@
 # contador
 
-A new Flutter project.
+Simples contador de pessoas
 
-## Getting Started
+## Imagens
+
+![incrementando](assets/img/19.jpeg)
+![full](assets/img/20.jpeg)
 
 This project is a starting point for a Flutter application.
 
