@@ -4,15 +4,15 @@ Simples contador de pessoas
 
 ## Imagens
 
-![incrementando](assets/img/19.jpeg)
-![full](assets/img/20.jpeg)
+![incrementando](assets/img/19.jpeg){width=50%}
+![full](assets/img/20.jpeg){width=50%}
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab){width=50%}
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook){width=50%}
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
